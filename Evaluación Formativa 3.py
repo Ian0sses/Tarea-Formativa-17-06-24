@@ -1,9 +1,9 @@
+listaTrabajadores=[]
 datos=[["Nombre", "Apellido", "Cargo", "Sueldo Bruto"],
         [],
         [],
         [],
         []]
-listaTrabajadores=[]
 listaTrabajadores.append(datos)
 while True:
     print("Buenos días, ingrese la opción que desea ")
